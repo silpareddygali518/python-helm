@@ -7,7 +7,7 @@ replicaCount: 2
 image:
   repository: silpag/python-app
   pullPolicy: IfNotPresent
-  tag: "latest"
+  tag: v1
 
 service:
   type: ClusterIP
