@@ -1,6 +1,6 @@
 # python-project Helm Chart
 
-This chart deploys the `bhuvaneswari333/python-project` container on port 5000.
+This chart deploys the `silpag/python-app` container on port 5000.
 
 ## Features
 

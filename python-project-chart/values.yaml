@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: bhuvaneswari333/python-project
+  repository: silpag/python-app
   pullPolicy: IfNotPresent
   tag: "latest"
 
